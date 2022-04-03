@@ -41,3 +41,10 @@
   .black.active {
     background-color: #333;
   }
+
+  #bottom-line{
+      position: absolute;
+      bottom: 0%;
+      color: cyan;
+      font-size: large;
+  }
